@@ -6,7 +6,7 @@ This is a ROS package for snowboy running on ROS services. All coding structures
 ## REQUIREMENTS
 - Ubuntu 16.04
 - ROS Kinetic Kame
-- [audio_common](https://github.com/ros-drivers/audio_common)
+- [PortAudio](http://www.portaudio.com/)
 
 ## DESCRIPTIONS
 - Use topic "/hotword_detection" to indicate that keyword "Hi Aqua" had been detected.
@@ -51,4 +51,7 @@ This is a ROS package for snowboy running on ROS services. All coding structures
 
 Once if hotword had been detected, it'll show message string from topic "/hotword_detection".
 
+### Reference:
+[snowboy_ros](https://github.com/tue-robotics/snowboy_ros)
+[KiTT-AI snowboy](https://github.com/Kitt-AI/snowboy)
 
