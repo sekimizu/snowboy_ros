@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>snowboy_ros</name>
+  <version>0.1.0</version>
+  <description>The snowboy package</description>
+
+  <author email="Kenny_Pan@pegatroncorp.com">Kenny Pan</author>
+  <maintainer email="Kenny_Pan@pegatroncorp.com">Kenny Pan</maintainer>
+
+  <license>BSD</license>
+   
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+
+  <run_depend>roscpp</run_depend>
+</package>
