@@ -52,6 +52,8 @@ This is a ROS package for snowboy running on ROS services. All coding structures
 Once if hotword had been detected, it'll show message string from topic "/hotword_detection".
 
 ### Reference:
+
 [snowboy_ros](https://github.com/tue-robotics/snowboy_ros)
+
 [KiTT-AI snowboy](https://github.com/Kitt-AI/snowboy)
 
